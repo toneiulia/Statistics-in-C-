@@ -1,0 +1,21 @@
+SC BistroFox SRL
+Calea Victoriei nr. 34
+True
+RO63246432563
+88893
+3000
+78002
+SC Avramex SA
+Strada Soarelui nr. 9
+False
+531001263
+1893
+200
+3422
+aaa
+aaa
+True
+11
+14
+12
+1314
